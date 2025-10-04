@@ -1,0 +1,3 @@
+/home/kevinfreshman/桌面/second_assignments/secondCMake/CMakeFiles/optimizer.dir
+/home/kevinfreshman/桌面/second_assignments/secondCMake/CMakeFiles/edit_cache.dir
+/home/kevinfreshman/桌面/second_assignments/secondCMake/CMakeFiles/rebuild_cache.dir
