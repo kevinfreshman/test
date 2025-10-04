@@ -1,0 +1,10 @@
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/CMakeFiles/counter.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/CMakeFiles/MathFunctions.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/CMakeFiles/ImageProcessor.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/CMakeFiles/test.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/CMakeFiles/edit_cache.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/CMakeFiles/rebuild_cache.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/firstCMake/tests/CMakeFiles/calculator_test.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/firstCMake/tests/CMakeFiles/test.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/firstCMake/tests/CMakeFiles/edit_cache.dir
+/home/kevinfreshman/桌面/second_assignments/firstCMake/build/firstCMake/tests/CMakeFiles/rebuild_cache.dir
