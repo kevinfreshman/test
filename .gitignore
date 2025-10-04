@@ -1,5 +1,4 @@
 /.marscode
-fristCMake/*.a
 fristCMake/CMakeFiles/
-fristCMake/*.so
 fristCMake/build/
+secondCMake/
