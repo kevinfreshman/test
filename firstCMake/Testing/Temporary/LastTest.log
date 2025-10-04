@@ -1,0 +1,71 @@
+Start testing: Oct 04 20:50 CST
+----------------------------------------------------------
+1/4 Testing: TestPower_Basic_2_3
+1/4 Test: TestPower_Basic_2_3
+Command: "/home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests/calculator_test" "2" "3"
+Directory: /home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests
+"TestPower_Basic_2_3" start time: Oct 04 20:50 CST
+Output:
+----------------------------------------------------------
+Using custom Math library.
+2 ^ 3 = 8
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TestPower_Basic_2_3" end time: Oct 04 20:50 CST
+"TestPower_Basic_2_3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: TestPower_Zero_Exponent
+2/4 Test: TestPower_Zero_Exponent
+Command: "/home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests/calculator_test" "5" "0"
+Directory: /home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests
+"TestPower_Zero_Exponent" start time: Oct 04 20:50 CST
+Output:
+----------------------------------------------------------
+Using custom Math library.
+5 ^ 0 = 1
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TestPower_Zero_Exponent" end time: Oct 04 20:50 CST
+"TestPower_Zero_Exponent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: TestPower_Negative_Base
+3/4 Test: TestPower_Negative_Base
+Command: "/home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests/calculator_test" "-2" "3"
+Directory: /home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests
+"TestPower_Negative_Base" start time: Oct 04 20:50 CST
+Output:
+----------------------------------------------------------
+Using custom Math library.
+-2 ^ 3 = -8
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TestPower_Negative_Base" end time: Oct 04 20:50 CST
+"TestPower_Negative_Base" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: TestPower_Fractional_Base
+4/4 Test: TestPower_Fractional_Base
+Command: "/home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests/calculator_test" "2.5" "2"
+Directory: /home/kevinfreshman/桌面/second_assignments/firstCMake/firstCMake/tests
+"TestPower_Fractional_Base" start time: Oct 04 20:50 CST
+Output:
+----------------------------------------------------------
+Using custom Math library.
+2.5 ^ 2 = 5
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TestPower_Fractional_Base" end time: Oct 04 20:50 CST
+"TestPower_Fractional_Base" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 04 20:50 CST

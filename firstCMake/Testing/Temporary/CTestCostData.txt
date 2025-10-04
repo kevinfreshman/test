@@ -1,0 +1,5 @@
+TestPower_Basic_2_3 1 0.032818
+TestPower_Zero_Exponent 1 0.0337837
+TestPower_Negative_Base 1 0.0318507
+TestPower_Fractional_Base 1 0.0291694
+---
